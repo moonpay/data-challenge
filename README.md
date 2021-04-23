@@ -42,7 +42,6 @@ another microservice), the following requirements need to be met.
 - A service that is able to provide the following functionality:
   - Return the total amount processed by acquirer and by currency for a given time range
   - Inform about the status of the data ingestion
-- The solution should be scalable to 100 million entries. Please explain how your process can deal with this volume and/or changes that you would make to overcome any limitations.
 - The solution should be written in Python using a suitable database.
 - Please include instructions on how to build and run.
 
