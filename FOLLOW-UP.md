@@ -3,7 +3,7 @@
 
 ### Q) If you had more time, what further improvements or new features would you add?
 
-### Q) Please explain how your process can deal with larger volumes of data, for example 100 million entires, what changes if any would make to overcome any limitations?
+### Q) Please explain how your process can deal with larger volumes of data, for example 100 million entries, what changes if any would make to overcome any limitations?
 
 ### Q) Which parts are you most proud of? And why?
 
