@@ -42,7 +42,7 @@ another microservice), the following requirements need to be met.
 - A service that is able to provide the following functionality:
   - Return the total amount processed by acquirer and by currency for a given time range
   - Inform about the status of the data ingestion
-- The solution should be written in Python using a suitable database.
+- The solution should be written in Python 3.8 or higher using a suitable database.
 - Please include instructions on how to build and run.
 
 ## Follow-up
